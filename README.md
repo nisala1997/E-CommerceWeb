@@ -2,6 +2,8 @@
 
 
 ![DEMO](../master/static/images/1.png)
+![DEMO](../master/static/images/2.png)
+![DEMO](../master/static/images/3.png)
 
 
 # Features
