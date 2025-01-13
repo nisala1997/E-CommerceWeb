@@ -22,7 +22,7 @@
 
 
 # Download & Setup Instructions
-
+Node 16.20.2
 * 1 - Clone project: git clone
 * 2 - cd proshop_django
 * 3 - Create virtual environment: python -m venv E:\location\myenv
